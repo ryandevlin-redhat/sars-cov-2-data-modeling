@@ -9,7 +9,7 @@ This repo contains resources for modeling the spread of SARS-COV-2
   * Note: the CDC says it is possible to spread this way, but it is not thought to be the main way the virus spreads.
   * SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html
 
-What we need to do is deduce every factor we can think of that create one or both of the above conditions.
+What needs to be done is we must deduce every factor we can think of which creates one or both of the above conditions.
 Then we must find data sources to provide insight into which factors are active and where.
 
 ### Factors which create the infection conditions:

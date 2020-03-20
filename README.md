@@ -52,7 +52,7 @@ Then we must find data sources to provide insight into which factors are active 
       * So far those in their 20's seems just as likely to contract the virus as those in their 70's
       * SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications/older-adults.html
 * Health complications   
-  * Individuals with health complications such as immunodeficiencies due to prior/ongoing illnesses are more susceptible to critical care
+  * Individuals with health complications such as immunodeficiencies due to prior/ongoing illnesses are more likely to be placed in critical care
   * It is most likely impossible to obtain this data due to HIPAA laws
 * Number of reported cases
   * Areas with higher reported cases will be more likely to see their healthcare systems overwhelmed

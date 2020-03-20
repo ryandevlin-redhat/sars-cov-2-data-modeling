@@ -69,12 +69,12 @@ Then we must find data sources to provide insight into which factors are active 
 
 ### Datasources to be cleaned and fed into a model:
 * Note: This data must be able to be grouped by geographical region
-* The granularity of the region may vary, but results will most likely be increasingly more accurate with finer granularity of region
-* For instance, if data is able to be collected for each county analyzed, this would be much better than simply obtaining state-wide data
+  * The granularity of the region may vary, but results will most likely be increasingly more accurate with finer granularity of region
+  * For instance, if data is able to be collected for each county analyzed, this would be much better than simply obtaining state-wide data
 
 * Note: The data sourced might need to have data spanshots over time. For instance the model might need to be trained with data reported daily for two weeks time.
-* If this is the case we will need data, such as PPE shortages, that has been reported daily.
-* This depends on how we implement the model
+  * If this is the case we will need data, such as PPE shortages, that has been reported daily.
+  * This depends on how we implement the model
 
 ### Factors which create the infection conditions:
 * Number of current cases

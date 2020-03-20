@@ -62,12 +62,9 @@ Then we must find data sources to provide insight into which factors are active 
 
 
 ### Note:
-    - We should not take climate (humidity, etc.) into account. This does not seem to currently affect the spread of the virus.
-    - SOURCE: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters
+* We should not take climate (humidity, etc.) into account. This does not seem to currently affect the spread of the virus.
+* SOURCE: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters
 
-
-
-=======================================================================================================================================================
 # TODO:
 
 ### Datasources to be cleaned and fed into a model:

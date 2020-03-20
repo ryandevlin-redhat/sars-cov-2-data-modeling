@@ -15,7 +15,7 @@ Then we must find data sources to provide insight into which factors are active 
 ### Factors which create the infection conditions:
 * Number of current cases
   * The virus is able to be spread by infected individuals long before they show symptoms
-  * This points to the short-term theory that areas with higher numbers of known cases are more likely to have higher numbers of unknown cases
+  * This points to the theory that in the short-term, areas with higher numbers of known cases are more likely to have higher numbers of unknown cases
 * Population density
   * Regions with greater population density will have higher probabilities of bringing infected hosts into contact with non-infected hosts
 * Transportation

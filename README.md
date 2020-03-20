@@ -4,10 +4,10 @@ This repo contains resources for modeling the spread of SARS-COV-2
 # What factors influence the spread of SARS-COV-2?
 
 ### Working from base truths, upward. We have our infection conditions:
-This virus can only spread by bringing an infected host in close contact (roughly 6ft or less) with a non-infected host.
-There may be transmission through contact with a surface soon after an infected host had contact with the same surface, so we might have to take that into account.
-* Note: the CDC says it is possible to spread this way, but it is not thought to be the main way the virus spreads.
-* SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html
+* This virus can only spread by bringing an infected host in close contact (roughly 6ft or less) with a non-infected host.
+* There may be transmission through contact with a surface soon after an infected host had contact with the same surface, so we might have to take that into account.
+  * Note: the CDC says it is possible to spread this way, but it is not thought to be the main way the virus spreads.
+  * SOURCE: https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html
 
 What we need to do is deduce every factor we can think of that create one or both of the above conditions.
 Then we must find data sources to provide insight into which factors are active and where.
